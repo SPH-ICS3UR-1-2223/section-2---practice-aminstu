@@ -4,7 +4,8 @@ public class ProblemSet2_2 {
         //Use comments to describe what your image is depicting.
         
         
-        
+        // eyes
+    	System.out.println("")
         
         
         
