@@ -5,11 +5,16 @@ public class ProblemSet2_2 {
         
         
         // eyes
-    	System.out.println("")
-        
-        
-        
-        
-        
+    	System.out.println(" 0                   0");
+        //Face
+    	System.out.println("                      ");
+    	System.out.println("                      ");
+    	//Nose
+    	System.out.println("          (  )           ");
+    	System.out.println("                      ");
+    	System.out.println("                      ");
+    	//Mouth
+    	System.out.println("   __________________");
+    	System.out.println("  (__________________)");
     } 
 }
